@@ -1,0 +1,11 @@
+C:\Users\kikoos1\source\repos\MM\MM\bin\Debug\netcoreapp3.1\MM.exe
+C:\Users\kikoos1\source\repos\MM\MM\bin\Debug\netcoreapp3.1\MM.deps.json
+C:\Users\kikoos1\source\repos\MM\MM\bin\Debug\netcoreapp3.1\MM.runtimeconfig.json
+C:\Users\kikoos1\source\repos\MM\MM\bin\Debug\netcoreapp3.1\MM.runtimeconfig.dev.json
+C:\Users\kikoos1\source\repos\MM\MM\bin\Debug\netcoreapp3.1\MM.dll
+C:\Users\kikoos1\source\repos\MM\MM\bin\Debug\netcoreapp3.1\MM.pdb
+C:\Users\kikoos1\source\repos\MM\MM\obj\Debug\netcoreapp3.1\MM.csprojAssemblyReference.cache
+C:\Users\kikoos1\source\repos\MM\MM\obj\Debug\netcoreapp3.1\MM.AssemblyInfoInputs.cache
+C:\Users\kikoos1\source\repos\MM\MM\obj\Debug\netcoreapp3.1\MM.AssemblyInfo.cs
+C:\Users\kikoos1\source\repos\MM\MM\obj\Debug\netcoreapp3.1\MM.dll
+C:\Users\kikoos1\source\repos\MM\MM\obj\Debug\netcoreapp3.1\MM.pdb
